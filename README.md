@@ -59,8 +59,11 @@ int main()
 }
 ~~~
 
+
 ## Code Ouput:-
-![](https://github.com/Sundar13905/Exceptional-handling/blob/main/Ex_16_output.png)
+
+![image](https://github.com/user-attachments/assets/0ed05f4e-2d88-424c-80b6-41529301c776)
+
 
 ## Conclusion:-
 In this experiment we learnt how to handle run time errors using try and catch method
